@@ -1,0 +1,1 @@
+We aim to provide a single repository for Thai localization code for language, units & currency, Thai number conversion and sub projects for educational purpose.
